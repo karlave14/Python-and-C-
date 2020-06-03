@@ -13,3 +13,4 @@ def vality_password(password):
   return False
 
 clave = input("Write you password: \n")
+print(vality_pasword(clave))
